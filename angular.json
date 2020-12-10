@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "kaarangulartr"
+  "defaultProject": "kaarangulartr",
+  "cli": {
+    "analytics": "0327559b-6d0f-4cd7-9467-07138ecd90ef"
+  }
 }
